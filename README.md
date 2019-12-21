@@ -1,0 +1,2 @@
+# goarea
+custom go package
